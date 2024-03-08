@@ -65,3 +65,7 @@ Our standard training pipeline consists of several steps:
 - `evaluate`: Evaluates the model on the eval split.
 - `decision`:
 - `deploy`: Deploys the model to a BentoML endpoint.
+
+---------------------------
+# Connect 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rraghulrajkumar/)
